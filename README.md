@@ -1,9 +1,9 @@
-## Olá, eu sou a Sávio Borges, analista de testes de software!
+## Olá, me chamo Sávio Borges, analista de testes de software!
 
 <div>
 <a href="https://github.com/SavioHolanda">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=SavioHolanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioHolanda&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/?username=SavioHolanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioHolanda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
