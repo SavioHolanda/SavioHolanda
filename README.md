@@ -1,4 +1,4 @@
-## Olá, me chamo Sávio Borges, analista de testes de software!
+## Olá, me chamo Sávio Borges, analista de testes e qualidade de software!
 
 <div>
 <a href="https://github.com/SavioHolanda">
