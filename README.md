@@ -1,4 +1,4 @@
-## Olá, me chamo Sávio Borges, QA Automation Enginner(Analista de testes!
+## Olá, me chamo Sávio Borges, QA Automation Enginner(Analista de testes)!
 
 <div>
 <a href="https://github.com/SavioHolanda">
