@@ -1,8 +1,24 @@
-## Olá, me chamo Sávio Borges, QA Automation Enginner(Analista de testes)!
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+## Hello, QAs!! 👋
+### O meu nome é Sávio, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+
+- 🔰  Sou de Maracanaú/CE, Brasil
+- ⚡ Apaixonado por Música e Tecnologia
+- 🧠 Formado em ADS e pós em andamento no curso QA e Tester de software na Vincent
+- 🏦 Atualmente trabalho como QA Analyst na NHGTech, com Sede em Curutiba/PR.
+
+##
+
+#### Estatísticas:
+<div>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelltulio&layout=compact&langs_count=7&theme=radical"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=israelltulio&show_icons=true&include_all_commits=true&theme=radical"/>
+<img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=israelltulio&amp;theme=radical">
+</div>
 
 <div>
-<a href="https://github.com/SavioHolanda">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/?username=SavioHolanda&show_icons=true&theme=dracula&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioHolandalayout=compact&langs_count=7&theme=radical"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioHolanda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
