@@ -10,18 +10,7 @@
 
 ##
 
-#### Estatísticas:
-
-<div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioHolanda&layout=compact&langs_count=7&theme=radical"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=SavioHolanda&how_icons=true&include_all_commits=true&theme=radical"/>
-<img loading="lazy" height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=SavioHolanda&amp;theme=radical">
-</div>
-
-##
-
 #### Ferramentas que uso:
-[<img height="48px" width="48px" alt="Icone Insomnia" src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>](https://insomnia.rest)
 [<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
 [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
@@ -32,6 +21,18 @@
 [<img height="48px" width="48px" alt="Sávio-Js" height="30" width="40" src="https://i.postimg.cc/65cSvjc7/appium-svgrepo-com.png">]()
 
 ## 
+
+#### Estatísticas:
+
+<div>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioHolanda&layout=compact&langs_count=7&theme=radical"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=SavioHolanda&how_icons=true&include_all_commits=true&theme=radical"/>
+<img loading="lazy" height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=SavioHolanda&amp;theme=radical">
+</div>
+
+##
+
+#### Como entrar em contato comigo:
 
 <div>
 <a href="https://instagram.com/s4vio4" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
