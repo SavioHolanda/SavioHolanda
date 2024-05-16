@@ -1,11 +1,11 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-## Hello, QAs!! 👋
+## Salve galera!! 👋
 ### O meu nome é Sávio, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🔰  Sou de Fortaleza/CE, Brasil
+- 🔰 Sou de Fortaleza/CE, Brasil
 - ⚡ Apaixonado por Música e Tecnologia
-- 🧠 Formado em ADS e pós em andamento no curso QA e Tester de software na Vincent
+- 🧠 Formado em ADS e concluindo a pós no curso QA e Tester de software na Vincent
 - 🏦 Atualmente trabalho como QA Analyst na NHGTech, com Sede em Curitiba/PR.
 
 ##
