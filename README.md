@@ -16,7 +16,6 @@
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
 [<img height="48px" width="48px" alt="Sávio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">]()
 [<img height="48px" width="48px" alt="Sávio-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">]()
-[<img height="48px" width="48px" alt="Sávio-Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">]()
 [<img height="48px" width="48px" alt="Sávio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">]()
 [<img height="48px" width="48px" alt="Sávio-Js" height="30" width="40" src="https://i.postimg.cc/65cSvjc7/appium-svgrepo-com.png">]()
 
