@@ -5,8 +5,8 @@
 
 - 🔰 Sou de Fortaleza/CE, Brasil
 - ⚡ Apaixonado por Música e Tecnologia
-- 🧠 Formado em ADS e concluindo a pós no curso QA e Tester de software na Vincent
-- 🏦 Atualmente trabalho como QA Analyst na NHGTech, com Sede em Curitiba/PR.
+- 🧠 Formado em ADS e pós graduado no curso QA e Tester de software na Vincent
+- 🏦 Atualmente trabalho como QA Analyst na NHGTech, com sede em Curitiba/PR.
 
 ##
 
