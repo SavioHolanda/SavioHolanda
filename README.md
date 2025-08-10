@@ -19,6 +19,8 @@
 [<img height="48px" width="48px" alt="Sávio-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">]()
 [<img height="48px" width="48px" alt="Sávio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">]()
 [<img height="48px" width="48px" alt="Sávio-Js" height="30" width="40" src="https://i.postimg.cc/65cSvjc7/appium-svgrepo-com.png">]()
+[<img width="48px" height="48px" alt="Sávio-Js" height="30" width="40" src="https://github.com/user-attachments/assets/dc42b0f4-5801-4dd9-9495-3375a7b7cd32" />]()
+
 
 ## 
 
