@@ -4,7 +4,7 @@
 ### O meu nome é Sávio, seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰 Sou de Fortaleza/CE, Brasil
-- ⚡ Apaixonado por Música e Tecnologia
+- 📝 Possuo as certificações: CTFL, ASTFC, SFPC e ASFC.
 - 🧠 Formado em ADS e pós graduado em QA e Tester de software.
 - 🏦 Atualmente trabalho como QA Analyst na Stefanini com sede em Belém/PA.
 - 🏦 Prestador de serviços de QA para a empresa NHG Tech com sede em Curitiba/PR.
